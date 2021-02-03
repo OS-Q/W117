@@ -1,0 +1,9 @@
+{
+    "name": "B12",
+    "version": "1.0.0",
+    "content": [
+        "docs/sch",
+        "projects/Blink"
+    ],
+    "url": "https://github.com/OS-Q/B12"
+}
