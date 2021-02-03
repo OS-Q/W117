@@ -11,6 +11,8 @@ jobs:
         python-version: [3.7]
         project:
           - "projects/Blink"
+          - "projects/DAC"
+          - "projects/UART"
 
     runs-on: ${{ matrix.os }}
     steps:
